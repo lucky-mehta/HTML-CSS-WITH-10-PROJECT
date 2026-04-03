@@ -63,7 +63,10 @@ button{
 }
 button:hover{
     background-color: #ccc;
-    border: 2px solid red;
-    color: black;
+    border: 2px solid rgb(216, 19, 19);
+    color: rgb(19, 8, 1);
     transition: 0.3s ease-out;
+    transition-duration: 2s;
+    height: 100px;
+    width: 100px;
 }
